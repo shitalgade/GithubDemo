@@ -1,4 +1,4 @@
 # GithubDemo
 Lets create repo
 <br>
-Author-Shital Gade
+<i>Author-Shital Gade</i>
